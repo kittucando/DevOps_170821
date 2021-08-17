@@ -1,4 +1,4 @@
-this is my first file content
+this is my branch1 file content
 ^^^^^^^^^^^^^^^^^^^^^^^G
 ^G
 $ dif
