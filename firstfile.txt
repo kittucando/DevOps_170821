@@ -1,0 +1,10 @@
+this is my first file content
+^^^^^^^^^^^^^^^^^^^^^^^G
+^G
+$ dif
+
+git add
+$git status
+
+$git add
+
